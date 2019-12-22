@@ -1,2 +1,1 @@
-# hello-world
-My first repository
+Denne repository er stadig under opbygning. 
