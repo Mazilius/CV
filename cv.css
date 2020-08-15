@@ -44,3 +44,13 @@ hr {
   letter-spacing: 5px;
   text-transform: uppercase;
 }
+
+.box {
+  background-color: #3598DB;
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  width: 60px;
+  padding: 5px;
+  border-radius: 5px;
+}
